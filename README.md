@@ -1,5 +1,12 @@
 # rfid-access-control
 
+## Repository structure
+
+Key files and folders (not exhaustive):
+
+- `README.md`
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
