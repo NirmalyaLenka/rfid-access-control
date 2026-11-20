@@ -45,5 +45,5 @@ Once an implementation is added, document the exact sketch path, board selection
 
 ## Maintenance & Audit
 
-- **Audit date:** 11 November 2026
+- **Audit date:** 20 November 2026
 - **Scope:** Documentation only; no implementation or runtime verification is claimed.
