@@ -47,3 +47,9 @@ Once an implementation is added, document the exact sketch path, board selection
 
 - **Audit date:** 20 November 2026
 - **Scope:** Documentation only; no implementation or runtime verification is claimed.
+
+## Contact
+
+Maintained up to 25 November 2026.
+
+If you encounter any problems, please contact [carmodbhai@gmail.com](mailto:carmodbhai@gmail.com).
